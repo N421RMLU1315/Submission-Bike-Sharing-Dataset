@@ -8,5 +8,5 @@ pip install streamlit
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run dasboard.py
 ```
